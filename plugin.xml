@@ -26,8 +26,8 @@
     <description>Cordova Proximity Sensor Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,proximity,sensor</keywords>
-    <repo>https://github.com/opentelecom/cordova-plugin-proximity.git</repo>
-    <issue>https://github.com/opentelecom/cordova-plugin-proximity/issues</issue>
+    <repo>https://github.com/switch168/cordova-plugin-proximity.git</repo>
+    <issue>https://github.com/switch168/cordova-plugin-proximity/issues</issue>
 
     <js-module src="www/proximity.js" name="proximity">
         <clobbers target="navigator.proximity" />
